@@ -7,7 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0e5637-92e3-4f0e-befe-f972f2ff0def" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/smartfox_info.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaDemo01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaDemo01.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,26 +51,7 @@
     <favorites_list name="IdeaDemo01" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/WindowsTest01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sirius/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,10 +86,10 @@
         <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/ThreadTest.java" />
         <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/WindowsTest2.java" />
         <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/WindowsTest01.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/WindowsTest01.java" />
         <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/WindowsTest2.java" />
         <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/safe/WindowsTest01.java" />
         <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/safe/WindowsTest2.java" />
+        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/WindowsTest01.java" />
       </list>
     </option>
   </component>
@@ -157,9 +141,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-167" />
-    <option name="y" value="59" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-13" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -174,35 +157,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="IdeaDemo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaDemo01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaDemo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaDemo01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaDemo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaDemo01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sirius" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaDemo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaDemo01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sefe" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -220,7 +186,7 @@
     <property name="database.console.LAST_STATE" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/untitled" />
+    <property name="last_opened_file_path" value="D:/资料/资料待整理/demo-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -228,7 +194,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.AboutConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -578,7 +544,25 @@
       <workItem from="1555899821771" duration="418000" />
       <workItem from="1555900355130" duration="530000" />
       <workItem from="1555901157610" duration="1213000" />
+      <workItem from="1555904507664" duration="498000" />
+      <workItem from="1556009526341" duration="590000" />
+      <workItem from="1556255047366" duration="1716000" />
+      <workItem from="1556256967266" duration="11000" />
+      <workItem from="1556260528924" duration="285000" />
+      <workItem from="1556261577168" duration="95000" />
+      <workItem from="1556261798523" duration="1159000" />
+      <workItem from="1556267623338" duration="38000" />
+      <workItem from="1557974385715" duration="1867000" />
+      <workItem from="1558847200167" duration="178000" />
     </task>
+    <task id="LOCAL-00001" summary="conmit">
+      <created>1555904686876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555904686887</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -590,7 +574,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45289000" />
+    <option name="totallyTimeSpent" value="51548000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -602,9 +586,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-13" y="0" width="1382" height="744" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4974271" visible="true" weight="0.23600605" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4974271" visible="true" weight="0.27382752" />
       <window_info id="Structure" order="1" sideWeight="0.50085765" side_tool="true" weight="0.32980332" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -623,15 +607,15 @@
       <window_info anchor="bottom" id="TODO" order="7" weight="0.3270548" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4992224" weight="0.3773585" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.39108062" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5030257" side_tool="true" visible="true" weight="0.32761577" />
       <window_info anchor="bottom" id="Problems" order="11" sideWeight="0.49924356" weight="0.32590052" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32879046" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49924356" visible="true" weight="0.32933104" />
-      <window_info anchor="bottom" id="Application Servers" order="15" sideWeight="0.49924356" weight="0.32876712" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4969743" visible="true" weight="0.32761577" />
+      <window_info anchor="bottom" id="Application Servers" order="15" sideWeight="0.49848714" weight="0.32761577" />
       <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.4977307" weight="0.32418525" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="17" weight="0.32876712" />
-      <window_info anchor="bottom" id="CheckStyle" order="18" weight="0.32876712" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="17" weight="0.32761577" />
+      <window_info anchor="bottom" id="CheckStyle" order="18" weight="0.32761577" />
       <window_info anchor="bottom" id="Statistic" order="19" sideWeight="0.4977307" weight="0.5831904" />
       <window_info anchor="bottom" id="JRebel" order="20" sideWeight="0.50075644" side_tool="true" weight="0.3270548" />
       <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.5007776" side_tool="true" weight="0.3984221" />
@@ -703,6 +687,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="conmit" />
+    <option name="LAST_COMMIT_MESSAGE" value="conmit" />
+  </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
@@ -713,13 +727,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/sirius/asdsa.java" />
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1161510b-8d5a-4e0c-9d35-d54b41d5fb52/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -737,13 +744,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/cb570fa3-18f7-4a96-9c5b-934c01b64182/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="das://e7c88c01-75c2-4667-8975-ca982d262f3e/schema/test/table/customers">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://e7c88c01-75c2-4667-8975-ca982d262f3e/schema/test/table/customers" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e7c88c01-75c2-4667-8975-ca982d262f3e/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -755,17 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/deleve/jdk/jdk12/lib/src.zip!/java.base/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="493" column="11" selection-start-line="493" selection-start-column="11" selection-end-line="493" selection-end-column="11" />
-          <folding>
-            <element signature="e#17077#17078#0" expanded="true" />
-            <element signature="e#17143#17144#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,13 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/ThreadTest02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -836,13 +819,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/IdeaDemo01/com/sirius/HelloWorld.class">
+    <entry file="file://$PROJECT_DIR$/src/com/sirius/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/untitled.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/deleve/jdk/jdk12/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/deleve/jdk/jdk12/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="1004" column="45" lean-forward="true" selection-start-line="1004" selection-start-column="45" selection-end-line="1004" selection-end-column="45" />
+          <folding>
+            <element signature="e#17077#17078#0" expanded="true" />
+            <element signature="e#17143#17144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/WindowsTest01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="150">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/IdeaDemo01/com/sirius/HelloWorld.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
