@@ -7,12 +7,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0e5637-92e3-4f0e-befe-f972f2ff0def" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/smartfox_info.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/JvmTestDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/JvmTestDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/JvmTestDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/teach/JVM01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/teach/JVM02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/teach/JVM03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/teach/StackErrorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/teach/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IdeaDemo01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaDemo01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IdeaDemo01_war_exploded/WEB-INF/classes/META-INF/IdeaDemo01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IdeaDemo01_war_exploded/WEB-INF/classes/com/sirius/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IdeaDemo01_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IdeaDemo01_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaDemo01/META-INF/IdeaDemo01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaDemo01/com/sirius/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaDemo01/com/sirius/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/web/index.jsp" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +69,6 @@
   <component name="FavoritesManager">
     <favorites_list name="IdeaDemo01" />
   </component>
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -66,32 +82,6 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/web/index.jsp" />
-        <option value="$PROJECT_DIR$/untitled/web/index.jsp" />
-        <option value="$PROJECT_DIR$/src/com/sirius/HelloWorld.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/31aa70b4-8203-4531-aa96-c64bc934e4c9/console.sql" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e7c88c01-75c2-4667-8975-ca982d262f3e/console.sql" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/ThreadTest01.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/ThreadExer.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/WindowsTest.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/ThreadTest02.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/WindowTest.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/RunnableWindows.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/RunableWindowsSafe.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/RunWindowsSafe.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/ThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/WindowsTest2.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/WindowsTest01.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/WindowsTest2.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/safe/WindowsTest01.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/safe/WindowsTest2.java" />
-        <option value="$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/WindowsTest01.java" />
-      </list>
-    </option>
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -133,45 +123,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <option name="groupStructurally" value="true" />
-    <option name="showVersions" value="true" />
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-13" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
-  </component>
+  <component name="ProjectId" id="1PjluViVvKLK998FXBodhlDYZ1l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <flattenPackages ProjectPane="true" />
-      <showMembers ProjectPane="false" />
-      <autoscrollToSource ProjectPane="true" />
-      <autoscrollFromSource ProjectPane="false" />
-      <sortByType ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="IdeaDemo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -186,24 +139,36 @@
     <property name="database.console.LAST_STATE" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
-    <property name="last_opened_file_path" value="D:/资料/资料待整理/demo-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/src" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="net.vektah.codeglance.config.ConfigEntry" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\idea\IdeaDemo01\demo\src" />
+      <recent name="E:\code\idea\IdeaDemo01\untitled\src" />
+      <recent name="E:\code\idea\IdeaDemo01\src\com\sirius\jvm\teach" />
       <recent name="E:\code\idea\IdeaDemo01\src\com\sirius\com\sirius\Thread\com\sirius\Thread\sefe\safe" />
       <recent name="E:\code\idea\IdeaDemo01\src\com\sirius\com\sirius\Thread\com\sirius\Thread\sefe" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\code\idea\IdeaDemo01\src\com\sirius\com\sirius\Thread\com\sirius\Thread\sefe" />
     </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,7 +182,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WindowsTest01">
+  <component name="RunManager" selected="Application.TestDemo01">
+    <configuration name="JvmTestDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sirius.jvm.JvmTestDemo01" />
+      <module name="IdeaDemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sirius.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JvmTestDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sirius.jvm.JvmTestDemo02" />
+      <module name="IdeaDemo01" />
+      <option name="VM_PARAMETERS" value="-Xms1024m -Xmx1024m -XX:+PrintGCDetails" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sirius.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JvmTestDemo03" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sirius.jvm.JvmTestDemo03" />
+      <module name="IdeaDemo01" />
+      <option name="VM_PARAMETERS" value="-Xms1000m -Xmx1000m -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=C:\Users\Ymh_Sirius\Desktop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sirius.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sirius.TestDemo01" />
+      <module name="IdeaDemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sirius.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTransferValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestTransferValue" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WindowsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sirius.com.sirius.Thread.WindowsTest01" />
       <module name="IdeaDemo01" />
@@ -501,9 +533,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.JvmTestDemo03" />
+      <item itemvalue="Application.JvmTestDemo02" />
+      <item itemvalue="Application.TestTransferValue" />
+      <item itemvalue="Application.JvmTestDemo01" />
+      <item itemvalue="Application.WindowsTest01" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.39test" />
+      <item itemvalue="Application.TestDemo01" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDemo01" />
+        <item itemvalue="Application.JvmTestDemo01" />
         <item itemvalue="Application.WindowsTest01" />
+        <item itemvalue="Application.JvmTestDemo02" />
+        <item itemvalue="Application.TestTransferValue" />
       </list>
     </recent_temporary>
   </component>
@@ -553,7 +598,19 @@
       <workItem from="1556261798523" duration="1159000" />
       <workItem from="1556267623338" duration="38000" />
       <workItem from="1557974385715" duration="1867000" />
-      <workItem from="1558847200167" duration="178000" />
+      <workItem from="1558847200167" duration="836000" />
+      <workItem from="1563000233682" duration="269000" />
+      <workItem from="1563000562473" duration="2565000" />
+      <workItem from="1563596600388" duration="4487000" />
+      <workItem from="1563618603862" duration="2245000" />
+      <workItem from="1563675264661" duration="284000" />
+      <workItem from="1563675660605" duration="643000" />
+      <workItem from="1563757494899" duration="4782000" />
+      <workItem from="1563775810474" duration="2229000" />
+      <workItem from="1566395617700" duration="670000" />
+      <workItem from="1566396327173" duration="41000" />
+      <workItem from="1566396439156" duration="1527000" />
+      <workItem from="1566702509380" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="conmit">
       <created>1555904686876</created>
@@ -562,19 +619,15 @@
       <option name="project" value="LOCAL" />
       <updated>1555904686887</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="conmit tes1">
+      <created>1558847445270</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558847445270</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="HelloWorld_test01 - 2019.04.12 at 08h 34m 25s.xml">
-      <configuration name="HelloWorld.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HelloWorld_test01 - 2019.04.12 at 08h 40m 31s.xml">
-      <configuration name="HelloWorld.test01" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51548000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -585,105 +638,6 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-13" y="0" width="1382" height="744" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4974271" visible="true" weight="0.27382752" />
-      <window_info id="Structure" order="1" sideWeight="0.50085765" side_tool="true" weight="0.32980332" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50085765" side_tool="true" weight="0.32980332" />
-      <window_info id="Web" order="7" sideWeight="0.5017123" side_tool="true" weight="0.22541603" />
-      <window_info id="DB Browser" order="8" sideWeight="0.49914238" weight="0.32980332" />
-      <window_info anchor="bottom" id="Database Console" order="0" sideWeight="0.49848714" weight="0.32933104" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49848714" weight="0.32590052" />
-      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.4992224" weight="0.3984221" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.3270548" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4992224" weight="0.3773585" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5030257" side_tool="true" visible="true" weight="0.32761577" />
-      <window_info anchor="bottom" id="Problems" order="11" sideWeight="0.49924356" weight="0.32590052" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32879046" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4969743" visible="true" weight="0.32761577" />
-      <window_info anchor="bottom" id="Application Servers" order="15" sideWeight="0.49848714" weight="0.32761577" />
-      <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.4977307" weight="0.32418525" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="17" weight="0.32761577" />
-      <window_info anchor="bottom" id="CheckStyle" order="18" weight="0.32761577" />
-      <window_info anchor="bottom" id="Statistic" order="19" sideWeight="0.4977307" weight="0.5831904" />
-      <window_info anchor="bottom" id="JRebel" order="20" sideWeight="0.50075644" side_tool="true" weight="0.3270548" />
-      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.5007776" side_tool="true" weight="0.3984221" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="22" />
-      <window_info anchor="bottom" id="JRebel Executor" order="23" />
-      <window_info anchor="bottom" id="Debug with VisualVM" order="24" />
-      <window_info anchor="bottom" id="Tail" order="25" />
-      <window_info anchor="bottom" id="DB Execution Console" order="26" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="RestServices" order="9" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549168" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info id="DB Browser" order="8" />
-      <window_info anchor="bottom" id="Database Console" order="0" sideWeight="0.49848714" weight="0.32933104" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49848714" visible="true" weight="0.1903945" />
-      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.4992224" weight="0.3984221" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4992224" weight="0.37869823" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.39108062" />
-      <window_info anchor="bottom" id="Problems" order="11" sideWeight="0.49924356" weight="0.32590052" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32879046" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49924356" weight="0.32933104" />
-      <window_info anchor="bottom" id="Application Servers" order="15" sideWeight="0.49924356" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.4977307" weight="0.32418525" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="17" weight="0.32876712" />
-      <window_info anchor="bottom" id="CheckStyle" order="18" weight="0.32876712" />
-      <window_info anchor="bottom" id="Statistic" order="19" sideWeight="0.4977307" weight="0.5839041" />
-      <window_info anchor="bottom" id="JRebel" order="20" sideWeight="0.50075644" side_tool="true" weight="0.3270548" />
-      <window_info anchor="bottom" id="JRebel Console" order="21" sideWeight="0.5007776" side_tool="true" weight="0.3984221" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="22" />
-      <window_info anchor="bottom" id="JRebel Executor" order="23" />
-      <window_info anchor="bottom" id="Debug with VisualVM" order="24" />
-      <window_info anchor="bottom" id="Tail" order="25" />
-      <window_info anchor="bottom" id="DB Execution Console" order="26" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="RestServices" order="9" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -693,21 +647,22 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -715,7 +670,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="conmit" />
-    <option name="LAST_COMMIT_MESSAGE" value="conmit" />
+    <MESSAGE value="conmit tes1" />
+    <option name="LAST_COMMIT_MESSAGE" value="conmit tes1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
@@ -725,249 +681,9 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/asdsa.java" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1161510b-8d5a-4e0c-9d35-d54b41d5fb52/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/31aa70b4-8203-4531-aa96-c64bc934e4c9/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/33ec15e4-c3fa-41a3-ba6e-15aa6fddde73/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://cb570fa3-18f7-4a96-9c5b-934c01b64182/collation/eucjpms_bin" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/cb570fa3-18f7-4a96-9c5b-934c01b64182/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://e7c88c01-75c2-4667-8975-ca982d262f3e/schema/test/table/customers" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e7c88c01-75c2-4667-8975-ca982d262f3e/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/WindowTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/RunWindowsSafe.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/WindowTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/ThreadTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/WindowsTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/WindowsTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/safe/WindowsTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/safe/WindowsTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/ThreadTest02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/ThreadTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/ThreadExer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/WindowsTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/untitled.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/deleve/jdk/jdk12/lib/src.zip!/java.base/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/deleve/jdk/jdk12/lib/src.zip!/java.base/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="1004" column="45" lean-forward="true" selection-start-line="1004" selection-start-column="45" selection-end-line="1004" selection-end-column="45" />
-          <folding>
-            <element signature="e#17077#17078#0" expanded="true" />
-            <element signature="e#17143#17144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sirius/com/sirius/Thread/com/sirius/Thread/sefe/WindowsTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/IdeaDemo01/com/sirius/HelloWorld.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArquillianSettingsConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>IdeaDemo01:war exploded</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>JRebel</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>IdeaDemo01</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IdeaDemo01$JvmTestDemo03.ic" NAME="JvmTestDemo03 Coverage Results" MODIFIED="1563618952041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sirius.jvm.*</FILTER>
+    </SUITE>
   </component>
 </project>
