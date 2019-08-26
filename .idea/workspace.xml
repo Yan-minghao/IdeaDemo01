@@ -7,30 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0e5637-92e3-4f0e-befe-f972f2ff0def" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/JvmTestDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/JvmTestDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/JvmTestDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/teach/JVM01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/teach/JVM02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/teach/JVM03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/teach/StackErrorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sirius/jvm/teach/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/TestDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/TestDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sirius/TestDemo05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e7c88c01-75c2-4667-8975-ca982d262f3e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e7c88c01-75c2-4667-8975-ca982d262f3e.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaDemo01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaDemo01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/IdeaDemo01_war_exploded/WEB-INF/classes/META-INF/IdeaDemo01.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/IdeaDemo01_war_exploded/WEB-INF/classes/com/sirius/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/IdeaDemo01_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/IdeaDemo01_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaDemo01/META-INF/IdeaDemo01.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaDemo01/com/sirius/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaDemo01/com/sirius/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/web/index.jsp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +42,30 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="users: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
@@ -134,6 +143,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
@@ -150,7 +160,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="net.vektah.codeglance.config.ConfigEntry" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -182,13 +192,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDemo01">
-    <configuration name="JvmTestDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sirius.jvm.JvmTestDemo01" />
+  <component name="RunManager" selected="Application.JDBCUtlTool">
+    <configuration name="EchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sirius.EchoServer" />
       <module name="IdeaDemo01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sirius.jvm.*" />
+          <option name="PATTERN" value="com.sirius.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,13 +206,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JvmTestDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sirius.jvm.JvmTestDemo02" />
+    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sirius.Human" />
       <module name="IdeaDemo01" />
-      <option name="VM_PARAMETERS" value="-Xms1024m -Xmx1024m -XX:+PrintGCDetails" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sirius.jvm.*" />
+          <option name="PATTERN" value="com.sirius.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCUtlTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sirius.JDBCUtlTool" />
+      <module name="IdeaDemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sirius.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,8 +246,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sirius.TestDemo01" />
+    <configuration name="MyUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sirius.MyUtil" />
       <module name="IdeaDemo01" />
       <extension name="coverage">
         <pattern>
@@ -237,25 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTransferValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TestTransferValue" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WindowsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sirius.com.sirius.Thread.WindowsTest01" />
+    <configuration name="TestDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sirius.TestDemo04" />
       <module name="IdeaDemo01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sirius.com.sirius.Thread.*" />
+          <option name="PATTERN" value="com.sirius.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -535,22 +544,42 @@
     </configuration>
     <list>
       <item itemvalue="Application.JvmTestDemo03" />
-      <item itemvalue="Application.JvmTestDemo02" />
-      <item itemvalue="Application.TestTransferValue" />
-      <item itemvalue="Application.JvmTestDemo01" />
-      <item itemvalue="Application.WindowsTest01" />
+      <item itemvalue="Application.Human" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.39test" />
-      <item itemvalue="Application.TestDemo01" />
+      <item itemvalue="Application.MyUtil" />
+      <item itemvalue="Application.TestDemo04" />
+      <item itemvalue="Application.EchoServer" />
+      <item itemvalue="Application.JDBCUtlTool" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestDemo01" />
-        <item itemvalue="Application.JvmTestDemo01" />
-        <item itemvalue="Application.WindowsTest01" />
-        <item itemvalue="Application.JvmTestDemo02" />
-        <item itemvalue="Application.TestTransferValue" />
+        <item itemvalue="Application.JDBCUtlTool" />
+        <item itemvalue="Application.EchoServer" />
+        <item itemvalue="Application.TestDemo04" />
+        <item itemvalue="Application.MyUtil" />
+        <item itemvalue="Application.Human" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@219eb2b" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@219eb2b" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@4b12f4e5" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Ymh_Sirius\AppData\Roaming\Subversion</configuration>
@@ -610,7 +639,8 @@
       <workItem from="1566395617700" duration="670000" />
       <workItem from="1566396327173" duration="41000" />
       <workItem from="1566396439156" duration="1527000" />
-      <workItem from="1566702509380" duration="336000" />
+      <workItem from="1566702509380" duration="15437000" />
+      <workItem from="1566819870707" duration="5789000" />
     </task>
     <task id="LOCAL-00001" summary="conmit">
       <created>1555904686876</created>
@@ -626,17 +656,15 @@
       <option name="project" value="LOCAL" />
       <updated>1558847445270</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="conmit tes1">
+      <created>1566702973325</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566702973325</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
